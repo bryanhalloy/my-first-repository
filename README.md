@@ -1,3 +1,3 @@
 # README #
 
-This is what you should read at the start!
+Hello world, i love using get
